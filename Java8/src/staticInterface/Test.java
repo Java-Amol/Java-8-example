@@ -14,6 +14,7 @@ public class Test {
 
 		Anonymous obj = (a) -> System.out.println("Hello : "+a);
 		obj.show(10);
+		system.out.println("hello world");
 
 	}
 
